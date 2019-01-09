@@ -45,11 +45,12 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Henry Fleming has joined the Union army because of his romantic ideas of military life, but soon finds himself in the middle of a battle against a regiment of Confederate soldiers. Terrified, Henry deserts his comrades. Upon returning to his regiment, he struggles with his shame as he tries to redeem himself and prove his courage.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Red Badge of Courage&lt;/i&gt; is Stephen Crane’es second book, notable for its realism and the fact that Crane had never personally experienced battle. Crane drew heavy inspiration from &lt;i&gt;Century Magazine&lt;/i&gt;, a periodical known for its articles about the American Civil War. However, he criticized the articles for their lack of emotional depth and decided to write a war novel of his own. The manuscript was first serialized in December 1894 by &lt;i&gt;The Philadelphia Press&lt;/i&gt; and quickly won Crane international acclaim before he died in June 1900 at the age of 28.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Red Badge of Courage&lt;/i&gt; is Stephen Crane’s second book, notable for its realism and the fact that Crane had never personally experienced battle. Crane drew heavy inspiration from &lt;i&gt;Century Magazine&lt;/i&gt;, a periodical known for its articles about the American Civil War. However, he criticized the articles for their lack of emotional depth and decided to write a war novel of his own. The manuscript was first serialized in December 1894 by &lt;i&gt;The Philadelphia Press&lt;/i&gt; and quickly won Crane international acclaim before he died in June 1900 at the age of 28.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73</dc:source>
+		<dc:source>https://archive.org/details/redbadgecourage00unkngoog</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_Badge_of_Courage</meta>
@@ -64,12 +65,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Winslow_Homer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79023170</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Arthur Smith</dc:contributor>
-		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Arthur Smith</meta>
-		<meta property="file-as" refines="#transcriber-2">Al Haines</meta>
+		<dc:contributor id="transcriber-1">Arthur Smith and Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Arthur Smith and Al Haines</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">John Gerace</dc:contributor>
 		<meta property="file-as" refines="#producer-1">John Gerace</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.johngerace.net</meta>
