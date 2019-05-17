@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Red Badge of Courage</dc:title>
 		<meta property="file-as" refines="#title">Red Badge of Courage, The</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
@@ -34,19 +34,22 @@
 		<dc:subject id="subject-3">United States -- History -- Civil War, 1861-1865 -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Virginia -- History -- Civil War, 1861-1865 -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Chancellorsville, Battle of, Chancellorsville, Va., 1863 -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/73</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/73</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/73</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/73</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/73</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85061165</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85145220</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007100014</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008117655</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Union soldier in the American Civil War longs to prove his courage in battle.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Henry Fleming has joined the Union army because of his romantic ideas of military life, but soon finds himself in the middle of a battle against a regiment of Confederate soldiers. Terrified, Henry deserts his comrades. Upon returning to his regiment, he struggles with his shame as he tries to redeem himself and prove his courage.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Red Badge of Courage&lt;/i&gt; is Stephen Crane’s second book, notable for its realism and the fact that Crane had never personally experienced battle. Crane drew heavy inspiration from &lt;i&gt;Century Magazine&lt;/i&gt;, a periodical known for its articles about the American Civil War. However, he criticized the articles for their lack of emotional depth and decided to write a war novel of his own. The manuscript was first serialized in December 1894 by &lt;i&gt;The Philadelphia Press&lt;/i&gt; and quickly won Crane international acclaim before he died in June 1900 at the age of 28.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73</dc:source>
 		<dc:source>https://archive.org/details/redbadgecourage00unkngoog</dc:source>
