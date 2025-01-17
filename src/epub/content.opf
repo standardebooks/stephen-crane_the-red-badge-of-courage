@@ -56,7 +56,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/73</dc:source>
 		<dc:source>https://archive.org/details/redbadgecourage00unkngoog</dc:source>
 		<meta property="se:production-notes">Some inconsistent spacing between contractions in words has been removed. It is not thought that these were meant to represent dialectical speech, but rather that they are merely printing inconsistencies.</meta>
-		<meta property="se:word-count">46813</meta>
+		<meta property="se:word-count">46814</meta>
 		<meta property="se:reading-ease.flesch">74.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_Badge_of_Courage</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stephen-crane_the-red-badge-of-courage</meta>
