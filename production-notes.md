@@ -1,0 +1,1 @@
+Some inconsistent spacing between contractions in words has been removed. It is not thought that these were meant to represent dialectical speech, but rather that they are merely printing inconsistencies.
