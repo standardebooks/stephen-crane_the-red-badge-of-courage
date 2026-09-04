@@ -32,9 +32,9 @@
 		<meta property="file-as" refines="#title">Red Badge of Courage, The</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">War stories</dc:subject>
-		<dc:subject id="subject-3">United States -- History -- Civil War, 1861-1865 -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Virginia -- History -- Civil War, 1861-1865 -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Chancellorsville, Battle of, Chancellorsville, Va., 1863 -- Fiction</dc:subject>
+		<dc:subject id="subject-3">United States--History--Civil War, 1861-1865--Fiction</dc:subject>
+		<dc:subject id="subject-4">Virginia--History--Civil War, 1861-1865--Fiction</dc:subject>
+		<dc:subject id="subject-5">Chancellorsville, Battle of, Chancellorsville, Va., 1863--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
